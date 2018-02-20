@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_model.xml",
+        "source": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_load_model.xml",
+        "source": "F:\\Ali\\Eng Ali\\Appsmatic\\3D Model App\\android-3D-model-viewer-master\\app\\src\\main\\res\\layout\\dialog_load_model.xml"
+    }
+]
